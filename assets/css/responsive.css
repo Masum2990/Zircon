@@ -1,0 +1,484 @@
+@media (max-width: 767px){
+
+/* Top-Header-Hero-Area-Home................................. */
+.zir-hm1-hero-bg {
+  padding: 63px 0px;
+  background-position: 100%;
+}
+.zir-hm1-hero-subtitle h5 {
+  font-size: 14px;
+}
+.zir-hm1-hero-title h1 {
+   font-size: 29px;
+}
+/* Skin-Care-Products-Home.......................... */
+.zir-hm1-skin-care-main-wrapper {
+  flex-wrap: wrap;
+}
+.zir-hm1-products-img-box .zir-hm1-skin-care-main-hover {
+  left: 0px;
+}
+.zir-hm1-skin-care-arrow a {
+  width: 60px;
+}
+.zir-hm1-skin-care-products h5 {
+  font-size: 15px;
+}
+.zir-hm1-skin-care-title a {
+  font-size: 24px;
+}
+.zir-hm1-skin-care-main-hover {
+  padding: 16px 24px;
+  width: 100%;
+}
+/* Browse-Our-Products-Home...................... */
+.zir-hm1-browse {
+  padding: 63px 0px;
+}
+.zir-hm1-title h2 {
+  font-size: 29px;
+}
+/* New-Beauty-Home...................... */
+.zir-hm1-new-beauty {
+  padding-bottom: 74px;
+}
+.zir-hm1-new-beauty-discount-card {
+  right: 0px;
+}
+
+
+/* Add-To-Cart-Home..................... */
+.zir-hm1-add-to-cart {
+  padding-bottom: 78px;
+}
+.zir-hm1-add-to-cart-slid-box .zir-hm1-add-to-cart-cus-1 {
+  width: 100%;
+  height: 402px;
+  margin-right: 0px;
+}
+.zir-hm1-add-to-cart-slid-box .zir-hm1-add-to-cart-cus-2 {
+  width: 100%;
+  height: auto;
+}
+.zir-hm1-add-to-cart-image-swich img {
+  width: 100%;
+  height: auto;
+}
+.zir-hm1-add-to-cart-title h3 {
+  font-size: 25px;
+}
+.zir-hm1-add-to-cart-btn {
+  width: 100%;
+}
+/* Subscribe-Newsletter-Home..................... */
+.zir-hm1-subscribe {
+  padding-bottom: 65px;
+}
+.zir-hm1-subscribe-form {
+  width: 100%;
+  margin: auto;
+}
+#zir-hm1-subscribe-form-input {
+  width: 100%;
+  height: fit-content;
+}
+.zir-hm1-white-txt-title h2 {
+  font-size: 29px;
+}
+/* Customers-Feedback-Home................. */
+.zir-hm1-feedback {
+  padding-bottom: 65px;
+}
+.zir-hm1-feedback-img {
+  width: 75%;
+}
+.zir-hm1-feedback-coma-icon i {
+  bottom: 221px;
+  left: 85px;
+}
+.zir-hm1-feedback-img img {
+  transform: translateX(0px);
+}
+
+
+/* Best-Selling-Items-Home.................. */
+.zir-hm1-selling-bg {
+  padding: 68px 0px;
+}
+.zir-hm1-selling-title-btn-box .nav-pills .nav-link {
+  font-size: 22px;
+}
+.zir-hm1-selling-title-btn-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  font-size: 22px;
+}
+.zir-hm1-selling-tab-box {
+  gap: 36px;
+}
+/* Latest-From-Blog-Home.................. */
+.zir-hm1-latest-blog {
+  padding: 60px 0px;
+}
+.zir-hm1-grey-txt-title h2 {
+  font-size: 29px;
+}
+.zir-hm1-grey-txt-title {
+  margin-bottom: 28px;
+}
+.zir-hm1-latest-blog-img {
+  height: fit-content;
+}
+.zir-hm1-latest-blog-img img {
+  width: 100%;
+  transform: translateX(0px);
+}
+.zir-hm1-latest-blog-icon-box {
+  gap: 3px;
+  margin-bottom: 8px;
+}
+.zir-hm1-latest-blog-title {
+  font-size: 27px;
+}
+.zir-hm1-latest-blog-img-2 img {
+  width: 100%;
+  transform: translateX(0px);
+}
+}
+
+
+
+ @media (min-width: 768px){
+/* Top-Header-Hero-Area-Home................... */
+.zir-hm1-hero-title h1 {
+  font-size: 82px;
+}
+.zir-hm1-skin-care-title a {
+  font-size: 20px;
+}
+.zir-hm1-skin-care-arrow a {
+  width: 57px;
+}
+.zir-hm1-skin-care-main-hover {
+  width: 100%;
+}
+.zir-hm1-products-img-box .zir-hm1-skin-care-main-hover {
+  left: 0px;
+}
+.zir-hm1-products-img-box h2 {
+  font-size: 27px;
+}
+.zir-hm1-title h2 {
+  font-size: 60px;
+}
+/* New-Beauty-Home.................. */
+.zir-hm1-new-beauty-discount-card {
+  right: 0px;
+}
+.zir-hm1-add-to-cart-btn {
+ margin: auto;
+}
+
+/* Subscribe-Newsletter-Home..................... */
+.zir-hm1-white-txt-title h2 {
+  font-size: 60px;
+}
+/* Customers-Feedback-Home.................... */
+
+.zir-hm1-feedback-coma-icon i {
+  bottom: 220px;
+  left: 92px;
+}
+/* Latest-From-Blog-Home........................ */
+.zir-hm1-grey-txt-title h2 {
+  font-size: 60px;
+}
+.zir-hm1-latest-blog-img img {
+  transform: translateX(0px);
+}
+.zir-hm1-latest-blog-img-2 img {
+  transform: translateX(0px);
+}
+}
+
+
+ @media (min-width: 992px){
+
+/* Top-Header-Hero-Area-Home................... */
+.zir-hm1-hero-title h1 {
+  font-size: 82px;
+}
+.zir-hm1-skin-care-title a {
+  font-size: 20px;
+}
+.zir-hm1-skin-care-arrow a {
+  width: 57px;
+}
+.zir-hm1-skin-care-main-hover {
+  width: 100%;
+}
+.zir-hm1-products-img-box .zir-hm1-skin-care-main-hover {
+  left: 0px;
+}
+.zir-hm1-products-img-box h2 {
+  font-size: 27px;
+}
+.zir-hm1-title h2 {
+  font-size: 60px;
+}
+/* New-Beauty-Home.................. */
+.zir-hm1-new-beauty-discount-card {
+  right: 0px;
+}
+.zir-hm1-add-to-cart-btn {
+ margin: 0 auto 0 0;
+}
+
+/* Subscribe-Newsletter-Home..................... */
+.zir-hm1-white-txt-title h2 {
+  font-size: 60px;
+}
+/* Customers-Feedback-Home.................... */
+
+.zir-hm1-feedback-coma-icon i {
+  bottom: 199px;
+  left: 145px;
+}
+/* Latest-From-Blog-Home........................ */
+.zir-hm1-grey-txt-title h2 {
+  font-size: 60px;
+}
+.zir-hm1-latest-blog-img img {
+  width: 100%;
+  transform: translateX(0px);
+  height: 100%;
+}
+.zir-hm1-latest-blog-img-2 img {
+  transform: translateX(0px);
+}
+.zir-hm1-latest-blog-img {
+  width: 100%;
+  height: 100%;
+}
+.zir-hm1-latest-blog-icon-box-2 {
+  gap: 19px;
+}
+}
+
+
+
+
+
+@media (min-width: 1200px){
+
+/* Top-Header-Hero-Area-Home................... */
+.zir-hm1-hero-title h1 {
+  font-size: 82px;
+}
+/* Skin-Care-Products-Home............. */
+.zir-hm1-skin-care-title a {
+  font-size: 34px;
+}
+.zir-hm1-skin-care-arrow a {
+  width: 57px;
+}
+.zir-hm1-skin-care-main-hover {
+  width: 100%;
+}
+.zir-hm1-products-img-box .zir-hm1-skin-care-main-hover {
+  left: 0px;
+}
+.zir-hm1-products-img-box h2 {
+  font-size: 34px;
+}
+.zir-hm1-title h2 {
+  font-size: 60px;
+}
+/* New-Beauty-Home.................. */
+.zir-hm1-new-beauty-discount-card {
+  right: 0px;
+}
+/* Add-To-Cart-Home............... */
+.zir-hm1-add-to-cart-btn {
+ width: 100%;
+ margin: 0 auto 0 0;
+}
+.zir-hm1-add-to-cart-quantity {
+  width: 185px;
+}
+.zir-hm1-buy-it-now-btn {
+  padding: 18px 48px;
+}
+.zir-hm1-add-to-cart-price {
+  margin-top: 15px;
+}
+.zir-hm1-add-to-cart-horijontal {
+  margin: 17px 0px;
+}
+.zir-hm1-add-to-cart-btn-quentiti-box {
+  margin: 15px 0px 15px 0px;
+}
+.zir-hm1-add-to-cart-main-wrapper {
+  gap: 45px;
+}
+.zir-hm1-add-to-cart-list-box {
+  margin-top: 25px;
+}
+.zir-hm1-add-to-cart-li-cus {
+  margin-bottom: 5px;
+}
+.zir-hm1-browse-icon-main-box {
+  padding: 10px;
+
+}
+/* Subscribe-Newsletter-Home..................... */
+.zir-hm1-white-txt-title h2 {
+  font-size: 60px;
+}
+/* Customers-Feedback-Home.................... */
+
+.zir-hm1-feedback-coma-icon i {
+  bottom: 199px;
+  left: 190px;
+}
+/* Latest-From-Blog-Home........................ */
+.zir-hm1-grey-txt-title h2 {
+  font-size: 60px;
+}
+.zir-hm1-latest-blog-img img {
+  width: 100%;
+  transform: translateX(0px);
+  height: 100%;
+}
+.zir-hm1-latest-blog-img-2 img {
+  transform: translateX(0px);
+}
+.zir-hm1-latest-blog-img {
+  width: 100%;
+  height: 100%;
+}
+.zir-hm1-latest-blog-icon-box-2 {
+  gap: 3px;
+}
+.zir-hm1-latest-blog-deatils-2 {
+  padding: 10px;
+}
+}
+
+
+
+@media (min-width: 1400px){
+  .container{
+    max-width: 1314px;    
+    
+ }
+
+ /* Top-Header-Hero-Area-Home................... */
+.zir-hm1-hero-title h1 {
+  font-size: 96px;
+}
+/* Skin-Care-Products-Home............. */
+.zir-hm1-skin-care-title a {
+  font-size: 32px;
+}
+.zir-hm1-skin-care-arrow a {
+  width: 72px;
+}
+.zir-hm1-skin-care-main-hover {
+  width: 510px;
+}
+.zir-hm1-products-img-box .zir-hm1-skin-care-main-hover {
+  left: 30px;
+}
+.zir-hm1-products-img-box h2 {
+  font-size: 32px;
+}
+.zir-hm1-title h2 {
+  font-size: 72px;
+}
+/* New-Beauty-Home.................. */
+.zir-hm1-new-beauty-discount-card {
+  right: 54px;
+}
+/* Add-To-Cart-Home............... */
+.zir-hm1-add-to-cart-btn {
+ width: 570px;
+ margin: 0 auto 0 0;
+}
+.zir-hm1-add-to-cart-quantity {
+  width: 274px;
+}
+.zir-hm1-buy-it-now-btn {
+  padding: 18px 94px;
+}
+.zir-hm1-add-to-cart-price {
+  margin-top: 24px;
+}
+.zir-hm1-add-to-cart-horijontal {
+  margin: 32px 0px;
+}
+.zir-hm1-add-to-cart-btn-quentiti-box {
+  margin: 38px 0px 15px 0px;
+}
+.zir-hm1-add-to-cart-main-wrapper {
+  gap: 64px;
+}
+.zir-hm1-add-to-cart-list-box {
+  margin-top: 40px;
+}
+.zir-hm1-add-to-cart-li-cus {
+  margin-bottom: 14px;
+}
+.zir-hm1-browse-icon-main-box {
+  padding: 30px;
+}
+/* Subscribe-Newsletter-Home..................... */
+.zir-hm1-white-txt-title h2 {
+  font-size: 72px;
+}
+/* Customers-Feedback-Home.................... */
+
+.zir-hm1-feedback-coma-icon i {
+  bottom: 7px;
+  left: 0;
+}
+/* Latest-From-Blog-Home........................ */
+.zir-hm1-grey-txt-title h2 {
+  font-size: 72px;
+}
+.zir-hm1-latest-blog-img img {
+  width: 680px;
+  transform: translateX(-20px);
+  height: 352px;
+}
+.zir-hm1-latest-blog-img-2 img {
+  transform: translateX(-20px);
+}
+.zir-hm1-latest-blog-img {
+  width: 100%;
+  height: 352px;
+}
+.zir-hm1-latest-blog-icon-box-2 {
+  gap: 24px;
+}
+.zir-hm1-latest-blog-deatils-2 {
+  padding: 20px;
+}
+
+}
+
+/*..............=====================================================================================....... */
+/* .............===============================Agency-Home2ND-Start================================........ */
+/* .............=====================================================================================....... */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
